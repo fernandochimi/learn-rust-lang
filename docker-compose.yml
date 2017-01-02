@@ -3,6 +3,6 @@ services:
   web:
     restart: always
     build: .
-    command: bash -c "cd /learn-rust-lang/learn_rust_lang/ && npm start"
+    command: bash -c "cd /learn-rust-lang/learn_rust_lang && rustc 0001_main.rs"
     volumes:
       - .:/learn-rust-lang
