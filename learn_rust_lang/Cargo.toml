@@ -1,0 +1,5 @@
+[package]
+
+name = "learn_rust_lang"
+version = "0.0.1"
+authors = ["Fernando Chimicoviaki <fernando.chimicoviaki@gmail.com>"]
