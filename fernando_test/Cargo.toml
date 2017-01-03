@@ -1,0 +1,6 @@
+[package]
+name = "fernando_test"
+version = "0.1.0"
+authors = ["Fernando Chimicoviaki <f.nascimento@avance-authent.com.br>"]
+
+[dependencies]
