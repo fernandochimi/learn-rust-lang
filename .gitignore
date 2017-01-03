@@ -6,4 +6,5 @@
 # More information here http://doc.crates.io/guide.html#cargotoml-vs-cargolock
 Cargo.lock
 
+learn_rust_lang/*
 !learn_rust_lang/*.rs
