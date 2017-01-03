@@ -1,8 +1,0 @@
-version: '2'
-services:
-  web:
-    restart: always
-    build: .
-    command: bash -c "cd /learn-rust-lang/learn_rust_lang && rustc 0001_main.rs"
-    volumes:
-      - .:/learn-rust-lang
