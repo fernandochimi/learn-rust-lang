@@ -4,3 +4,4 @@ version = "0.1.0"
 authors = ["Fernando Chimicoviaki <f.nascimento@avance-authent.com.br>"]
 
 [dependencies]
+rand="0.3.0"
